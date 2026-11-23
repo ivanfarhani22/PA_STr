@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "runready"
+version = "0.1.0"
+description = "Sistem Prediksi Kesiapan Pelari Menghadapi Lomba Road dan Trail Running Menggunakan Machine Learning"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "xgboost",
+    "matplotlib",
+    "joblib",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
