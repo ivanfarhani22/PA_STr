@@ -1,0 +1,88 @@
+athlete_id,race_event,race_city,race_year,name,age_category,gender,km4week,sp4week_kmh,training_pace_min_km,cross_training_type,cross_training_hours,half_split_h,marathon_time_h,marathon_time_min,marathon_pace_min_km,half_split_ratio,time_tier,quality_flag
+1,Prague17,Prague,2017,Blair MORGAN,MAM,M,132.8,14.434783,4.1566,,,1.16,2.37,142.2,3.3701,0.4895,A,ok
+2,Prague17,Prague,2017,Robert Heczko,MAM,M,68.6,13.674419,4.3878,,,1.23,2.59,155.4,3.6829,0.4749,A,ok
+3,Prague17,Prague,2017,Michon Jerome,MAM,M,82.7,13.520436,4.4377,,,1.3,2.66,159.6,3.7824,0.4887,A,ok
+4,Prague17,Prague,2017,Daniel Or lek,M45,M,137.5,12.258544,4.8945,,,1.32,2.68,160.8,3.8109,0.4925,A,ok
+5,Prague17,Prague,2017,Luk ? Mr zek,MAM,M,84.6,13.945055,4.3026,,,1.36,2.74,164.4,3.8962,0.4964,A,name_encoding_issue
+6,Prague17,Prague,2017,David Pecina,M40,M,42.2,13.612903,4.4076,,,1.32,2.78,166.8,3.9531,0.4748,A,ok
+7,Prague17,Prague,2017,Tomas Drabek,M40,M,89.0,12.59434,4.764,,,1.38,2.81,168.6,3.9957,0.4911,A,ok
+8,Prague17,Prague,2017,Jan Rada,M45,M,106.0,12.694611,4.7264,,,1.41,2.84,170.4,4.0384,0.4965,A,ok
+9,Prague17,Prague,2017,Tomas Drabek,MAM,M,70.0,13.770492,4.3571,cycling,1.0,1.38,2.83,169.8,4.0242,0.4876,A,ok
+10,Prague17,Prague,2017,martin ?indel ?,M45,M,84.2,13.365079,4.4893,,,1.35,2.86,171.6,4.0668,0.472,A,name_encoding_issue
+11,Prague17,Prague,2017,Maksim Remezau,MAM,M,93.5,13.2,4.5455,,,1.42,2.87,172.2,4.0811,0.4948,A,ok
+12,Prague17,Prague,2017,Jaroslaw Marchewka,M50,M,65.7,13.362712,4.4901,,,1.4,2.87,172.2,4.0811,0.4878,A,ok
+13,Prague17,Prague,2017,Tom ? K?e?ek,M45,M,53.5,14.078947,4.2617,cycling,4.0,1.37,2.88,172.8,4.0953,0.4757,A,name_encoding_issue
+14,Prague17,Prague,2017,Ji?، Polcar,M40,M,84.4,13.836066,4.3365,,,1.41,2.88,172.8,4.0953,0.4896,A,name_encoding_issue
+15,Prague17,Prague,2017,Denis Wachtl,MAM,M,76.8,12.94382,4.6354,,,1.44,2.89,173.4,4.1095,0.4983,A,ok
+16,Prague17,Prague,2017,David Lehnen,MAM,M,76.1,14.970492,4.0079,,,1.45,2.9,174.0,4.1237,0.5,A,ok
+17,Prague17,Prague,2017,Jپrgen Steiner,M55,M,112.3,12.594393,4.764,cycling,13.0,1.44,2.91,174.6,4.1379,0.4948,A,ok
+18,Prague17,Prague,2017,David Marek,M40,M,49.7,14.336538,4.1851,,,1.44,2.91,174.6,4.1379,0.4948,A,ok
+19,Prague17,Prague,2017,Jan Fri?ek,MAM,M,84.5,12.549505,4.7811,,,1.45,2.93,175.8,4.1664,0.4949,A,name_encoding_issue
+20,Prague17,Prague,2017,Vlastimil Lys k,MAM,M,76.7,8.031414,7.4707,,,1.41,2.94,176.4,4.1806,0.4796,A,ok
+21,Prague17,Prague,2017,Radek Dvo? k,MAM,M,94.5,11.886792,5.0476,,,1.45,2.99,179.4,4.2517,0.4849,A,name_encoding_issue
+22,Prague17,Prague,2017,Jind?ich Lisى,M40,M,67.3,13.239344,4.5319,,,1.5,3.04,182.4,4.3228,0.4934,B,name_encoding_issue
+23,Prague17,Prague,2017,Carlos Valladares Calvo,M40,M,59.4,12.638298,4.7475,,,1.5,3.05,183.0,4.337,0.4918,B,ok
+24,Prague17,Prague,2017,Jiri Syrovatko,M45,M,66.1,12.12844,4.9471,,,1.48,3.09,185.4,4.3939,0.479,B,ok
+25,Prague17,Prague,2017,Florian Kobler,MAM,M,67.4,12.878981,4.6588,,,1.52,3.1,186.0,4.4081,0.4903,B,ok
+26,Prague17,Prague,2017,Jan Ro?ek,,,23.8,13.471698,4.4538,cycling,5.0,,3.11,186.6,4.4223,,B,name_encoding_issue;missing_half_split;missing_age_category
+27,Prague17,Prague,2017,Cat Simpson,WAM,F,129.6,12.188088,4.9228,,,1.54,3.12,187.2,4.4365,0.4936,B,ok
+28,Prague17,Prague,2017,Pavel Hlo?ek,MAM,M,82.4,11.771429,5.0971,,,1.52,3.14,188.4,4.465,0.4841,B,name_encoding_issue
+29,Prague17,Prague,2017,Enrico Ballerin,M45,M,51.6,13.008403,4.6124,,,1.5,3.15,189.0,4.4792,0.4762,B,ok
+30,Prague17,Prague,2017,Jaroslav Jur sek,M50,M,104.9,11.72067,5.1192,,,1.57,3.16,189.6,4.4934,0.4968,B,ok
+31,Prague17,Prague,2017,Luka Slap?ak Pelliccioni,MAM,M,52.5,12.549801,4.781,cycling,3.0,1.62,3.19,191.4,4.5361,0.5078,B,name_encoding_issue
+32,Prague17,Prague,2017,Ondrej Barta,MAM,M,79.4,13.344538,4.4962,,,1.6,3.19,191.4,4.5361,0.5016,B,ok
+33,Prague17,Prague,2017,Emilio Zamarriego Garcia,M45,M,65.6,11.891239,5.0457,,,1.51,3.21,192.6,4.5645,0.4704,B,ok
+34,Prague17,Prague,2017,Ian Loriggio,M50,M,112.4,12.284153,4.8843,,,1.58,3.21,192.6,4.5645,0.4922,B,ok
+35,Prague17,Prague,2017,Pavel Marek,,,112.2,11.276382,5.3209,,,,3.22,193.2,4.5787,,B,missing_half_split;missing_age_category
+36,Prague17,Prague,2017,Jan Kervitcer,MAM,M,50.1,11.881423,5.0499,,,1.62,3.22,193.2,4.5787,0.5031,B,ok
+37,Prague17,Prague,2017,Luk ? Kozubik,MAM,M,50.1,12.17004,4.9301,,,1.56,3.23,193.8,4.593,0.483,B,name_encoding_issue
+38,Prague17,Prague,2017,David Cox,M45,M,52.1,12.163424,4.9328,,,1.61,3.24,194.4,4.6072,0.4969,B,ok
+39,Prague17,Prague,2017,Brian Parkinson,MAM,M,64.7,13.294521,4.5131,,,1.5,3.24,194.4,4.6072,0.463,B,ok
+40,Prague17,Prague,2017,Kate?ina Ka?parova,WAM,F,69.2,10.053269,5.9682,,,1.6,3.25,195.0,4.6214,0.4923,B,name_encoding_issue
+41,Prague17,Prague,2017,David Allison,M45,M,61.3,12.383838,4.845,,,1.59,3.28,196.8,4.6641,0.4848,B,ok
+42,Prague17,Prague,2017,Luis Salom,M55,M,58.8,12.829091,4.6769,,,1.68,3.28,196.8,4.6641,0.5122,B,ok
+43,Prague17,Prague,2017,Thanasis Kypraios,MAM,M,82.7,11.647887,5.1511,,,1.78,3.32,199.2,4.7209,0.5361,B,ok
+44,Prague17,Prague,2017,Filip Machart,MAM,M,32.2,12.710526,4.7205,,,1.62,3.32,199.2,4.7209,0.488,B,ok
+45,Prague17,Prague,2017,Dalibor Sma?inka,M40,M,27.7,11.622378,5.1625,cycling,3.0,1.67,3.32,199.2,4.7209,0.503,B,name_encoding_issue
+46,Prague17,Prague,2017,Javier Abarca,MAM,M,68.0,11.791908,5.0882,,,1.67,3.33,199.8,4.7352,0.5015,B,ok
+47,Prague17,Prague,2017,Kristen Stephenson,WAM,F,48.6,12.252101,4.8971,,,1.66,3.33,199.8,4.7352,0.4985,B,ok
+48,Prague17,Prague,2017,Miguel Escribano,M45,M,39.6,12.247423,4.899,,,1.67,3.35,201.0,4.7636,0.4985,B,ok
+49,Prague17,Prague,2017,Seddiq Hassani,M45,M,60.1,12.182432,4.9251,,,1.55,3.36,201.6,4.7778,0.4613,B,ok
+50,Prague17,Prague,2017,Milo? Bosnovi?,MAM,M,78.2,12.0,5.0,,,1.64,3.39,203.4,4.8205,0.4838,C,name_encoding_issue
+51,Prague17,Prague,2017,Raphael Bicelli,MAM,M,50.3,10.161616,5.9046,,,1.67,3.4,204.0,4.8347,0.4912,C,ok
+52,Prague17,Prague,2017,Jrom GOJIRIEN,,,70.7,12.662687,4.7383,,,,3.45,207.0,4.9058,,C,missing_half_split;missing_age_category
+53,Prague17,Prague,2017,Luk ? Charv t,M40,M,121.7,9.907734,6.0559,,,1.65,3.46,207.6,4.92,0.4769,C,name_encoding_issue
+54,Prague17,Prague,2017,Jakub Adam،k,,,51.1,11.230769,5.3425,,,,3.47,208.2,4.9342,,C,name_encoding_issue;missing_half_split;missing_age_category
+55,Prague17,Prague,2017,?????,M40,M,70.7,11.783333,5.0919,,,1.77,3.47,208.2,4.9342,0.5101,C,name_encoding_issue
+56,Prague17,Prague,2017,Jakub Ka?par,MAM,M,26.9,13.121951,4.5725,,,1.67,3.5,210.0,4.9769,0.4771,C,name_encoding_issue
+57,Prague17,Prague,2017,Mickael Rihouey,MAM,M,56.2,12.086022,4.9644,,,1.71,3.5,210.0,4.9769,0.4886,C,ok
+58,Prague17,Prague,2017,Michel Brucker,MAM,M,36.3,11.647059,5.1515,,,1.72,3.51,210.6,4.9911,0.49,C,ok
+59,Prague17,Prague,2017,Mark Orton,MAM,M,22.7,12.728972,4.7137,,,1.67,3.52,211.2,5.0053,0.4744,C,ok
+60,Prague17,Prague,2017,Hannes Lilljequist,M40,M,45.2,11.02439,5.4425,,,1.77,3.52,211.2,5.0053,0.5028,C,ok
+61,Prague17,Prague,2017,Szigyarto Laszlo,M40,M,43.2,10.936709,5.4861,,,1.76,3.55,213.0,5.048,0.4958,C,ok
+62,Prague17,Prague,2017,Jaroslav Valeri n,MAM,M,54.1,11.116438,5.3974,,,1.63,3.55,213.0,5.048,0.4592,C,ok
+63,Prague17,Prague,2017,Ale? Kuchynka,M45,M,48.8,11.665339,5.1434,,,1.66,3.56,213.6,5.0622,0.4663,C,name_encoding_issue
+64,Prague17,Prague,2017,Bradley Selmes,MAM,M,20.7,12.42,4.8309,cycling,5.0,1.69,3.56,213.6,5.0622,0.4747,C,ok
+65,Prague17,Prague,2017,Frederic Bonningues,M40,M,54.2,11.782609,5.0923,,,1.69,3.59,215.4,5.1049,0.4708,C,ok
+66,Prague17,Prague,2017,Barry Sacher,M45,M,60.3,11.708738,5.1244,,,1.88,3.62,217.2,5.1475,0.5193,C,ok
+67,Prague17,Prague,2017,Michal korchan Michal,MAM,M,48.5,11.022727,5.4433,cycling,3.0,1.93,3.64,218.4,5.176,0.5302,C,ok
+68,Prague17,Prague,2017,Branislav Jacko,MAM,M,34.3,11.307692,5.3061,,,1.74,3.64,218.4,5.176,0.478,C,ok
+69,Prague17,Prague,2017,Joost Saanen,MAM,M,59.1,10.910769,5.4992,,,1.75,3.65,219.0,5.1902,0.4795,C,ok
+70,Prague17,Prague,2017,marek kolba,MAM,M,41.6,12.235294,4.9038,,,1.8,3.67,220.2,5.2186,0.4905,C,ok
+71,Prague17,Prague,2017,Roy Bruhn,M45,M,87.0,11.472527,5.2299,,,1.81,3.68,220.8,5.2328,0.4918,D,ok
+72,Prague17,Prague,2017,Martin Bo Meyer,M50,M,24.2,11.52381,5.2066,cycling,3.0,1.76,3.69,221.4,5.2471,0.477,D,ok
+73,Prague17,Prague,2017,Lucie Zona,WAM,F,52.3,11.708955,5.1243,,,1.94,3.69,221.4,5.2471,0.5257,D,ok
+74,Prague17,Prague,2017,Pavel Szappanos,,,53.6,12.711462,4.7201,,,,3.75,225.0,5.3324,,D,missing_half_split;missing_age_category
+75,Prague17,Prague,2017,Radim Rimanek,MAM,M,66.7,11.566474,5.1874,,,1.9,3.76,225.6,5.3466,0.5053,D,ok
+76,Prague17,Prague,2017,Piers Ronan,MAM,M,23.9,12.05042,4.9791,cycling,4.0,1.85,3.78,226.8,5.375,0.4894,D,ok
+77,Prague17,Prague,2017,Michal Karhan,MAM,M,40.3,8.337931,7.196,cycling,5.0,1.94,3.8,228.0,5.4035,0.5105,D,ok
+78,Prague17,Prague,2017,Luk ? Pe?iva,MAM,M,30.6,11.060241,5.4248,,,1.97,3.87,232.2,5.503,0.509,D,name_encoding_issue
+79,Prague17,Prague,2017,Chris Smith,MAM,M,28.0,11.2,5.3571,,,1.97,3.89,233.4,5.5315,0.5064,D,ok
+80,Prague17,Prague,2017,Martin Werner,MAM,M,53.9,11.80292,5.0835,,,1.98,3.9,234.0,5.5457,0.5077,D,ok
+81,Prague17,Prague,2017,C‚dou Gatto,,,38.1,11.043478,5.4331,,,,3.9,234.0,5.5457,,D,name_encoding_issue;missing_half_split;missing_age_category
+82,Prague17,Prague,2017,Nathan Khan,MAM,M,35.6,11.125,5.3933,,,2.05,3.92,235.2,5.5741,0.523,D,sp4week_rescaled
+83,Prague17,Prague,2017,Stefano Vegliani,M55,M,50.0,10.830325,5.54,,,2.02,3.93,235.8,5.5883,0.514,D,ok
+84,Prague17,Prague,2017,Andrej Madliak,M40,M,33.6,10.130653,5.9226,cycling,3.0,1.94,3.93,235.8,5.5883,0.4936,D,ok
+85,Prague17,Prague,2017,Yoi Ohsako,M40,M,55.4,11.043189,5.4332,,,1.94,3.94,236.4,5.6026,0.4924,D,ok
+86,Prague17,Prague,2017,Simon Dunn,M45,M,33.2,11.066667,5.4217,,,2.05,3.95,237.0,5.6168,0.519,D,ok
+87,Prague17,Prague,2017,Pavel ?imek,M40,M,17.9,10.848485,5.5307,cycling,5.0,2.05,3.98,238.8,5.6594,0.5151,D,name_encoding_issue
